@@ -1,6 +1,6 @@
 - id: python-unittest
   name: python-unittest
   description: Runs unittest discover to run Python based unit tests
-  entry: python3 -m unittest discover
+  entry: python3 -m unittest discover -qb
   pass_filenames: false
   language: system
