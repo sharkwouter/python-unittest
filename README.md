@@ -8,7 +8,7 @@ Simply add the following to your `.pre-commit-config.yaml`:
 
 ```yaml
 -   repo: https://github.com/sharkwouter/python-unittest
-    rev: 1.0
+    rev: 1.0.0
     hooks:
     -   id: python-unittest
 ```
