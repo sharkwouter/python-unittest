@@ -2,5 +2,5 @@
   name: python-unittest
   description: Runs unittest discover to run Python based unit tests
   entry: python3 -m unittest discover
-  pass_filename: false
+  pass_filenames: false
   language: system
