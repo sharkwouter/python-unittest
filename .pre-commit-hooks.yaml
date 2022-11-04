@@ -3,4 +3,5 @@
   description: Runs unittest discover to run Python based unit tests
   entry: python3 -m unittest discover -qb
   pass_filenames: false
+  types: [python] 
   language: system
